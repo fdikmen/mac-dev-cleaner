@@ -2,9 +2,9 @@
 
 # macOS Developer Safe Cleaner
 
-[![License: MIT](https://shields.io)](LICENSE)
-[![Platform](https://shields.io)]()
-[![Shell](https://shields.io)]()
+[![License: MIT](.github/badges/license.svg)](LICENSE)
+![Platform: macOS](.github/badges/platform.svg)
+![Shell: zsh](.github/badges/shell.svg)
 
 An interactive `zsh` utility designed for macOS developers to reclaim tens of gigabytes of disk space **without invalidating active browser sessions, IDE logins, `.env` configurations, or source code**.
 
